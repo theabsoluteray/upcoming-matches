@@ -14,8 +14,8 @@
 
 # 🛠️ Tech Stack
 
-    ```Frontend: React + TypeScript + Vite
+    `Frontend: React + TypeScript + Vite
 
     Backend: Python + Flask
 
-    API: API-Football v3```
+    API: API-Football v3`
